@@ -1,7 +1,7 @@
 name: cd
 on:
   push:
-    branches: [ master ]
+    branches: [ development ]
   workflow_dispatch:
 
 jobs:
@@ -39,4 +39,4 @@ jobs:
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
           local-dir: ./dist/
-          server-dir: ./kompack.id/
+          server-dir: ./dev-nuxt.kompack.id/
