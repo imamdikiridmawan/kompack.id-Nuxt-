@@ -10,14 +10,14 @@ export default defineNuxtConfig({
         shim: false
       }  ,
       css: [
-        '../kompack.id-Nuxt-/assets/css/app.css',
+        './assets/css/app.css',
         'bootstrap/dist/css/bootstrap.min.css',
         // 'aos/dist/aos.css'
       ], 
       plugins: [
-        { src: "../kompack.id-Nuxt-/plugins/clientlibs.js", mode: "client", ssr: false },
-        { src: "../kompack.id-Nuxt-/plugins/aos.client.js", ssr: false, mode: "client" },
-        { src: "../kompack.id-Nuxt-/plugins/vueselect.js" , ssr: false, mode: "client"}
+        { src: "./plugins/clientlibs.js", mode: "client", ssr: false },
+        { src: "./plugins/aos.client.js", ssr: false, mode: "client" },
+        { src: "./plugins/vueselect.js" , ssr: false, mode: "client"}
     ], 
       alias: {
         '@': resolve(__dirname, '')
@@ -27,7 +27,7 @@ export default defineNuxtConfig({
       //   // Using package name
       //   '@nuxtjs/axios',
       //   // Relative to your project srcDir
-      //   '../kompack.id-Nuxt-/modules/awesome.js',
+      //   './modules/awesome.js',
       //   // Providing options
       //   ['@nuxtjs/google-analytics', { ua: 'X1234567' }],
       //   // Inline definition
