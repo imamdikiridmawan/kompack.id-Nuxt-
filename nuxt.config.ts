@@ -10,7 +10,7 @@ export default defineNuxtConfig({
         shim: false
       }  ,
       css: [
-        '../assets/css/app.css',
+        '~/assets/css/app.css',
         'bootstrap/dist/css/bootstrap.min.css',
         // 'aos/dist/aos.css'
       ], 
