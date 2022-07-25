@@ -22,7 +22,7 @@
                 <button type="button" class="btn btn-1 btn-outline-primary">
                   Hubungi kami Sekarang
                 </button>
-              </a>              
+              </a>
             </div>
           </div>
         </div>
@@ -752,7 +752,7 @@
       <h1>Lokasi Gudang</h1>
     </div>
     <section id="section-8" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
-      <div class="row justify-content-center sect-8">        
+      <div class="row justify-content-center sect-8">
         <div class="isi-sect8">
           <div class="row row_sect-8 justify-content-center">
             <div class="col col-tangerang">
