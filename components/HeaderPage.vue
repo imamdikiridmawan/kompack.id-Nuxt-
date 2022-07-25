@@ -1,7 +1,7 @@
 <template>
   <div class="header" id="header">
-    <div class="row row_header ">
-      <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
+    <div class="row row_header fixed-top">
+      <nav class="navbar navbar-expand-lg navbar-light bg-white ">
         <div class="container-fluid cntr_header">
           <a class="navbar-brand"
             ><img src="../assets/logo-kompack-new.png" alt=""
