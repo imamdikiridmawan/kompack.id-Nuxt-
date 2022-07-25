@@ -61,9 +61,9 @@
 </template>
 
 <script>
-    definePageMeta({
-        layout: 'default'
-    })
+    // definePageMeta({
+    //     layout: 'default'
+    // })
 export default {
     layout: 'default'
 };

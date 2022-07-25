@@ -27,7 +27,7 @@ export default defineNuxtConfig({
       //   // Using package name
       //   '@nuxtjs/axios',
       //   // Relative to your project srcDir
-      //   '~/modules/awesome.js',
+      //   '@/modules/awesome.js',
       //   // Providing options
       //   ['@nuxtjs/google-analytics', { ua: 'X1234567' }],
       //   // Inline definition
