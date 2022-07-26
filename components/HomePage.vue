@@ -20,7 +20,7 @@
             <div class="button-komponen">
               <a href="https://api.whatsapp.com/send?phone=6281328012118&text=&source=&data">
                 <button type="button" class="btn btn-1 btn-outline-primary">
-                  Hubungi kami Sekarang
+                  <img src="../assets/wa-logo.png" alt="">&nbsp;&nbsp;Hubungi kami Sekarang</img>
                 </button>
               </a>
             </div>
@@ -653,7 +653,6 @@
                   </div>
                   <div class="content-card">
                     <p>Melakukan Registrasi</p>
-                    <p></p>
                   </div>
                 </div>
               </div>
@@ -843,7 +842,7 @@
         <div class="button">
           <a href="https://api.whatsapp.com/send?phone=6281328012118&text=&source=&data" class="btn-primary">
             <img src="../assets/whatsapp.png" alt="">
-            Daftar Sekarang Juga
+            Hubungi Kami Via Whatsapp
           </a>
         </div>
       </div>
