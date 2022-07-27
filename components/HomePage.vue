@@ -18,9 +18,9 @@
               pengemasan barang
             </p>
             <div class="button-komponen">
-              <a href="https://api.whatsapp.com/send?phone=6281328012118&text=&source=&data">
+              <a href="#section-9">
                 <button type="button" class="btn btn-1 btn-outline-primary">
-                  <img src="../assets/wa-logo.png" alt="">&nbsp;&nbsp;Hubungi kami Sekarang</img>
+                  Hubungi kami Sekarang
                 </button>
               </a>
             </div>
