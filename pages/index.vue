@@ -30,17 +30,17 @@ export default {
   },
   head () {
     return {
-      title: 'Komship - Platform Kirim Barang',
+      title: 'Kompack - Jasa Pegudangan di Lokasi Strategis',
       meta: [
         {
           vmid: 'description',
           name: 'description',
-          content: 'Komship merupakan platform layanan pengiriman yang bertujuan memudahkan kamu untuk mengirim paket yang didukung dengan metode COD atau Non-COD tanpa batas minimum pengiriman.'
+          content: 'Solusi masalah pergudangan hingga packing order. Kompack menyediakan jasa fulfillment untuk kemudahan bisnis online dan UMKM. Daftar sekarang'
         },
         {
           vmid: 'keywords',
           name: 'keywords',
-          content: 'komship'
+          content: 'kompack'
         },
         {
           vmid: 'og-locale',
@@ -55,27 +55,27 @@ export default {
         {
           vmid: 'og-title',
           property: 'og:title',
-          content: 'Komship - Platform Kirim Barang'
+          content: 'Kompack - Jasa Pegudangan di Lokasi Strategis'
         },
         {
           vmid: 'og-description',
           property: 'og:description',
-          content: 'Komship merupakan platform layanan pengiriman yang bertujuan memudahkan kamu untuk mengirim paket yang didukung dengan metode COD atau Non-COD tanpa batas minimum pengiriman.'
+          content: 'Solusi masalah pergudangan hingga packing order. Kompack menyediakan jasa fulfillment untuk kemudahan bisnis online dan UMKM. Daftar sekarang.'
         },
         {
           vmid: 'og-url',
           property: 'og:url',
-          content: 'https://komship.id/'
+          content: 'https://kompack.id/'
         },
         {
           vmid: 'og-site_name',
           property: 'og:site_name',
-          content: 'Komship'
+          content: 'Kompack'
         },
         {
           vmid: 'og-image',
           property: 'og:image',
-          content: 'https://komship.id/komship-lp.png'
+          content: 'https://kompack.id/img/kompack.png'
         },
         {
           vmid: 'og-image-width',
@@ -90,12 +90,12 @@ export default {
         {
           vmid: 'og-see_also',
           property: 'og:see_also',
-          content: 'https://www.instagram.com/komship/'
+          content: 'https://www.instagram.com/kompackid/'
         },
         {
           vmid: 'og-see_also2',
           property: 'og:see_also',
-          content: 'https://www.facebook.com/komship/'
+          content: 'https://www.facebook.com/kompackid'
         }
       ],
       link: [
@@ -103,7 +103,7 @@ export default {
         {
           vmid: 'canonical',
           rel: 'canonical',
-          href: 'https://komship.id/'
+          href: 'https://kompack.id/'
         }
       ],
       script: [
@@ -113,22 +113,22 @@ export default {
           json: {
             '@context': 'https://schema.org/',
             '@type': 'WebSite',
-            name: 'Komship',
-            description: 'Komship merupakan platform layanan pengiriman yang bertujuan memudahkan kamu untuk mengirim paket yang didukung dengan metode COD atau Non-COD tanpa batas minimum pengiriman.',
-            url: 'https://komship.id/',
+            name: 'Kompack',
+            description: 'Solusi masalah pergudangan hingga packing order. Kompack menyediakan jasa fulfillment untuk kemudahan bisnis online dan UMKM. Daftar sekarang',
+            url: 'https://kompack.id/',
             image: {
               '@type': 'ImageObject',
-              url: 'https://komship.id/img/komship.png',
+              url: 'https://kompack.id/img/kompack.png',
               height: '720',
               width: '1280'
             },
             sameAs: [
-              'https://www.facebook.com/komship/',
-              'https://www.instagram.com/komship/'
+              'https://www.facebook.com/kompackid',
+              'https://www.instagram.com/kompackid/'
             ],
             potentialAction: {
               '@type': 'SearchAction',
-              target: 'https://komship.id/pencarian?q={search_term_string}',
+              target: 'https://kompack.id/pencarian?q={search_term_string}',
               'query-input': 'required name=search_term_string'
             }
           }
