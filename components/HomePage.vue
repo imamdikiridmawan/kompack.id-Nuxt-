@@ -1027,13 +1027,15 @@ img {
 /* <-- container 2 --> */
 .section_2 {
   text-align: -webkit-center;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
   padding-bottom: 20px;
+  margin-top:80px;
 }
 
 .head-sect2 {
   padding: 20px;
   font-weight: 600;
+  margin-top: -70px;
   color: #222222;
 }
 
@@ -1914,7 +1916,7 @@ img {
   .img-mobile {
     display: block;
     text-align: -webkit-right;
-    margin-top: -17%;
+    margin-top: -15%;
   }
 
   .ket-komponen {
@@ -1945,6 +1947,7 @@ img {
 
   .judul-komponen {
     font-size: 24px;
+    text-align: left;
   }
 
   h2 {
