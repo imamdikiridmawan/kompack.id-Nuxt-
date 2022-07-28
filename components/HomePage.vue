@@ -972,6 +972,7 @@ img {
 .section_1 {
   background-color: #f6f6f9;
   padding-top: 100px;
+  margin-top: 50px;
 }
 
 .judul-komponen {
@@ -1645,6 +1646,7 @@ img {
   .section_1 {
     padding-top: 3vh;
     text-align: center;
+
   }
 
   .model-img {
