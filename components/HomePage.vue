@@ -837,7 +837,7 @@
           </h2>
         </div>
         <div class="subhead-sect9">
-          <p>Rasakan kemudahannya! Hubungi kami untuk informasi lebih lanjut</p>
+          <p>Rasakan kemudahannya! Hubungi kami untuk informasi lebih lanjut</p><br></br>
         </div>
         <div class="button">
           <a href="https://api.whatsapp.com/send?phone=6281328012118&text=&source=&data" class="btn-primary">
