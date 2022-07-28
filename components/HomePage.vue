@@ -1291,7 +1291,7 @@ img {
 /* end section-5 Komship */
 /* <-- section_7 --> */
 #section-7 {
-  margin-top: 20px;
+  margin-top: 50px;
   margin-bottom: -15vh;
   padding-bottom: 30vh;
   text-align: -webkit-center;
