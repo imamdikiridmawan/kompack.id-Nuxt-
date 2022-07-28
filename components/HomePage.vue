@@ -18,7 +18,7 @@
               pengemasan barang
             </p>
             <div class="button-komponen">
-              <a href="https://api.whatsapp.com/send?phone=6281328012118&text=&source=&data">
+              <a href="#section-9">
                 <button type="button" class="btn btn-1 btn-outline-primary">
                   Hubungi kami Sekarang
                 </button>
@@ -180,7 +180,7 @@
     </section>
     <section id="section-4">
       <div class="container section-4" data-aos="zoom-in">
-        <div class="head-sect4">
+        <div class="head-sect4 h4">
           <h4>Apa kelebihan Kompack?</h4>
         </div>
         <div class="row justify-content-between row-sect4">
@@ -653,7 +653,6 @@
                   </div>
                   <div class="content-card">
                     <p>Melakukan Registrasi</p>
-                    <p></p>
                   </div>
                 </div>
               </div>
@@ -838,12 +837,12 @@
           </h2>
         </div>
         <div class="subhead-sect9">
-          <p>Rasakan kemudahannya! Hubungi kami untuk informasi lebih lanjut</p>
+          <p>Rasakan kemudahannya! Hubungi kami untuk informasi lebih lanjut</p><br></br>
         </div>
         <div class="button">
           <a href="https://api.whatsapp.com/send?phone=6281328012118&text=&source=&data" class="btn-primary">
             <img src="../assets/whatsapp.png" alt="">
-            Daftar Sekarang Juga
+            Hubungi Kami Via Whatsapp
           </a>
         </div>
       </div>
@@ -973,6 +972,7 @@ img {
 .section_1 {
   background-color: #f6f6f9;
   padding-top: 100px;
+  margin-top: 50px;
 }
 
 .judul-komponen {
@@ -1009,6 +1009,7 @@ img {
   color: #fff;
   font-size: 16px;
   font-weight: 600;
+
 }
 
 /* .button-komponen .btn-1:hover {
@@ -1027,13 +1028,15 @@ img {
 /* <-- container 2 --> */
 .section_2 {
   text-align: -webkit-center;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
   padding-bottom: 20px;
+  margin-top:80px;
 }
 
 .head-sect2 {
   padding: 20px;
   font-weight: 600;
+  margin-top: -70px;
   color: #222222;
 }
 
@@ -1091,6 +1094,7 @@ img {
   font-size: 16px;
   font-weight: 400;
   padding: 10px;
+  font-family: poppins;
 }
 
 .content-sect3:hover {
@@ -1109,6 +1113,7 @@ img {
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
+  font-family: poppins;
 }
 
 /* <-- section_4 --> */
@@ -1116,6 +1121,7 @@ img {
   background-color: #edf8ff;
   padding-top: 5vh;
   padding-bottom: 15vh;
+  margin-top: -20px;
 }
 
 .section-4 {
@@ -1125,6 +1131,7 @@ img {
   background-position-x: 18vw;
   height: 70vh;
   margin-bottom: 2rem;
+  margin-top: 80px;
 }
 
 .row-sect4 {
@@ -1132,6 +1139,7 @@ img {
   padding-bottom: 10%;
   text-align: -webkit-left;
   font-weight: 600;
+  margin-top: -90px;
 }
 
 .content-sect4-22 {
@@ -1154,9 +1162,10 @@ img {
 /* section-5 Komship */
 #section-komship {
   background-color: #D4E3FC;
-  padding-top: 5vh;
+  padding-top: 20px;
   padding-bottom: 10vh;
   border-radius: 24px;
+
 }
 
 .benefit {
@@ -1282,7 +1291,7 @@ img {
 /* end section-5 Komship */
 /* <-- section_7 --> */
 #section-7 {
-  margin-top: -12vh;
+  margin-top: 50px;
   margin-bottom: -15vh;
   padding-bottom: 30vh;
   text-align: -webkit-center;
@@ -1300,6 +1309,7 @@ img {
 .col1-sect7 {
   align-self: center;
   border-right: solid 2px #ffffff;
+  margin-top: 10px;
 }
 
 .head-sect7 {
@@ -1646,6 +1656,7 @@ img {
   .section_1 {
     padding-top: 3vh;
     text-align: center;
+
   }
 
   .model-img {
@@ -1657,20 +1668,23 @@ img {
   }
 
   .ket-komponen {
-    text-align: center;
+    text-align: left;
     font-size: 14px;
+    font-family: poppins;
   }
 
   .button-komponen {
-    text-align: -webkit-center;
+    text-align: -webkit-left;
   }
 
   .row-sect3 {
     display: none;
+    font-family: poppins;
   }
 
   .head-sect3 {
     margin-bottom: 7vh;
+    font-family: poppins;
   }
 
   .content-mobile-sect3 {
@@ -1711,14 +1725,11 @@ img {
     margin-bottom: 2vh;
   }
 
-  #section-7 {
-    padding-bottom: 0px;
-    margin-top: 0vh;
-    margin-bottom: 0vh;
-  }
+
 
   .head-sect7 h2 {
     font-size: 20px;
+    font-family: poppins;
   }
 
   .row-sect7 {
@@ -1913,7 +1924,7 @@ img {
   .img-mobile {
     display: block;
     text-align: -webkit-right;
-    margin-top: -17%;
+    margin-top: -15%;
   }
 
   .ket-komponen {
@@ -1944,6 +1955,7 @@ img {
 
   .judul-komponen {
     font-size: 24px;
+    text-align: left;
   }
 
   h2 {
@@ -1952,14 +1964,15 @@ img {
 
   .content-sect2 {
     margin-top: 2rem;
-    width: 340px;
+    width: 320px;
     font-size: 12px;
-    border-radius: 8px;
+    border-radius: 5px;
     box-shadow: rgba(0, 0, 0, 25) 1px 1px 4px 0px;
   }
 
   .subhead-sect2 {
-    padding-bottom: 10px;
+    padding-bottom: 5px;
+    font-family: poppins;
   }
 
   .icon-sect2 {
@@ -2019,13 +2032,12 @@ img {
     margin-bottom: 1rem;
   }
 
-  #section-7 {
-    padding-bottom: 0px;
-    padding-top: 0%;
-    margin-top: 0vh;
-    margin-bottom: 0vh;
+  .head-sect4 h4{
+    font-size: 20px;
+    height: 90px;
+    margin-top: -90px;
+    font-family: poppins;
   }
-
   .head-sect7 h2 {
     font-size: 24px;
   }
@@ -2058,6 +2070,8 @@ img {
 
   .head-sect5 h2 {
     font-size: 20px;
+    font-family: poppins;
+    text-align: center;
   }
 
   .head-sect5 img {
@@ -2336,13 +2350,6 @@ img {
 
   .content-sect4-4 {
     margin-bottom: 1rem;
-  }
-
-  #section-7 {
-    padding-bottom: 0px;
-    padding-top: 0%;
-    margin-top: 0vh;
-    margin-bottom: 0vh;
   }
 
   .head-sect7 h2 {
