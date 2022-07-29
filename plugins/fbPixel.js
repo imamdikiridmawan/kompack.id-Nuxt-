@@ -20,6 +20,6 @@ export default () => {
     s.parentNode.insertBefore(t, s)
   }(window, document, 'script',
     'https://connect.facebook.net/en_US/fbevents.js'))
-  fbq('init', '1091145171732768')
+  fbq('init', '5012227155521088')
   fbq('track', 'PageView')
 }
