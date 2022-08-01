@@ -19,7 +19,7 @@
             </p>
             <div class="button-komponen">
               <a href="#section-9">
-                <button type="button" class="btn btn-1 btn-outline-primary">
+                <button type="button" class="btn btn-1 btn-outline-primary section-9">
                   Hubungi kami Sekarang
                 </button>
               </a>
@@ -840,7 +840,7 @@
           <p>Rasakan kemudahannya! Hubungi kami untuk informasi lebih lanjut</p><br></br>
         </div>
         <div class="button" id="5012227155521088">
-          <a href="https://api.whatsapp.com/send?phone=6281328012118&text=&source=&data" class="btn-primary">
+          <a href="https://api.whatsapp.com/send?phone=6281328012118&text=Hi%Kompack,%saya%butuh%gudang%mohon%dibantu.&source=&data" class="btn-primary">
             <img src="../assets/whatsapp.png" alt="">
             Hubungi Kami Via Whatsapp
           </a>
