@@ -21,5 +21,5 @@ export default () => {
   }(window, document, 'script',
     'https://connect.facebook.net/en_US/fbevents.js'))
   fbq('init', '5012227155521088')
-  fbq('track', 'PageView')
+  fbq('track', 'ContentView')
 }
