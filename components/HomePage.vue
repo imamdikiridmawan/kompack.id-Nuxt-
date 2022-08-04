@@ -960,6 +960,7 @@ export default {
   margin: 0%;
 }
 
+
 img {
   max-width: 100%;
 }
