@@ -631,7 +631,7 @@
         </div>
       </div>
     </section>
-    <section
+      <section
       id="alur"
       class="carousel-desktop"
       data-aos="fade-up"
@@ -653,6 +653,7 @@
                   </div>
                   <div class="content-card">
                     <p>Melakukan Registrasi</p>
+                    <p></p>
                   </div>
                 </div>
               </div>
@@ -727,7 +728,7 @@
             >
               <span class="carousel-control-prev-icon" aria-hidden="true"
                 ><i class="material-icons custom__material-icons"
-                  >keyboard_arrow_left</i
+                  >left</i
                 ></span
               >
             </button>
@@ -739,7 +740,7 @@
             >
               <span class="carousel-control-next-icon" aria-hidden="true"
                 ><i class="material-icons custom__material-icons"
-                  >keyboard_arrow_right</i
+                  >right</i
                 ></span
               >
             </button> -->
@@ -961,6 +962,7 @@ export default {
   padding: 0%;
   margin: 0%;
 }
+
 
 img {
   max-width: 100%;
