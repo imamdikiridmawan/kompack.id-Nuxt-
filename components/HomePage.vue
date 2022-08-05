@@ -631,7 +631,6 @@
         </div>
       </div>
     </section>
-      <h2 class="mb-5">Alur Partner Kompack</h2>
       <section
       id="alur"
       class="carousel-desktop"
@@ -729,7 +728,7 @@
             >
               <span class="carousel-control-prev-icon" aria-hidden="true"
                 ><i class="material-icons custom__material-icons"
-                  >keyboard_arrow_left</i
+                  >left</i
                 ></span
               >
             </button>
@@ -741,7 +740,7 @@
             >
               <span class="carousel-control-next-icon" aria-hidden="true"
                 ><i class="material-icons custom__material-icons"
-                  >keyboard_arrow_right</i
+                  >right</i
                 ></span
               >
             </button> -->

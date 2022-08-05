@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'kompack-v2',
+    title: 'Landing Page Kompack',
     htmlAttrs: {
       lang: 'en'
     },
