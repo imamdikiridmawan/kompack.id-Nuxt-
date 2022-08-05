@@ -632,6 +632,123 @@
       </div>
     </section>
       <h2 class="mb-5">Alur Partner Kompack</h2>
+      <section
+      id="alur"
+      class="carousel-desktop"
+      data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom"
+    >
+      <h2 class="mb-5">Alur Partner Kompack</h2>
+      <div class="row">
+        <div class="carousel">
+          <div
+            id="carouselExampleControls"
+            class="carousel slide"
+            data-bs-ride="carousel"
+          >
+            <div class="carousel-inner">
+              <div class="carousel-item ci-right">
+                <div class="card card-alur">
+                  <div class="icon-card">
+                    <img src="../assets/icon/alur-1.svg" />
+                  </div>
+                  <div class="content-card">
+                    <p>Melakukan Registrasi</p>
+                    <p></p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="card card-alur">
+                  <div class="icon-card">
+                    <img src="../assets/icon/alur-2.svg" />
+                  </div>
+                  <div class="content-card">
+                    <p style="font-size: 15px">
+                      Penentuan biaya dan persetujuan surat perjanjian
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="card card-alur">
+                  <div class="icon-card">
+                    <img src="../assets/icon/alur-3.svg" />
+                  </div>
+                  <div class="content-card">
+                    <p>Mengirim barang ke gudang</p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="card card-alur">
+                  <div class="icon-card">
+                    <img src="../assets/icon/alur-4.svg" />
+                  </div>
+                  <div class="content-card">
+                    <p>Mitra gudang menyimpan barangmu</p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="card card-alur">
+                  <div class="icon-card">
+                    <img src="../assets/icon/alur-5.svg" />
+                  </div>
+                  <div class="content-card">
+                    <p>Mengirim data order ke mitra gudang</p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="card card-alur">
+                  <div class="icon-card">
+                    <img src="../assets/icon/alur-6.svg" />
+                  </div>
+                  <div class="content-card">
+                    <p>Mitra gudang menyiapkan orderan customer</p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item ci-left">
+                <div class="card card-alur">
+                  <div class="icon-card">
+                    <img src="../assets/icon/alur-7.svg" />
+                  </div>
+                  <div class="content-card">
+                    <p>Partner membayar invoice per bulan</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- <button
+              class="carousel-control-prev"
+              type="button"
+              data-bs-target="#carouselExampleControls"
+              data-bs-slide="prev"
+            >
+              <span class="carousel-control-prev-icon" aria-hidden="true"
+                ><i class="material-icons custom__material-icons"
+                  >keyboard_arrow_left</i
+                ></span
+              >
+            </button>
+            <button
+              class="carousel-control-next"
+              type="button"
+              data-bs-target="#carouselExampleControls"
+              data-bs-slide="next"
+            >
+              <span class="carousel-control-next-icon" aria-hidden="true"
+                ><i class="material-icons custom__material-icons"
+                  >keyboard_arrow_right</i
+                ></span
+              >
+            </button> -->
+          </div>
+        </div>
+      </div>
+    </section>
     <div class="row row-lokasi-gudang justify--content-center">
       <h1>Lokasi Gudang</h1>
     </div>
