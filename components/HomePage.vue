@@ -10,8 +10,8 @@
         >
           <div class="komponen-pertama">
             <h2 class="judul-komponen">
-              <span style="color: #4285F4">Jasa Pergudangan</span><br> Terpercaya
-              untuk Bisnis Online Kamu
+              <span style="color: #4285F4">Kompack</span><br> Jasa Pergudangan Terpercaya
+
             </h2>
             <p class="ket-komponen">
               Kompack adalah solusi untuk masalah pergudangan, management, dan
@@ -268,7 +268,7 @@
         >
           <div class="card-body">
             <div class="row">
-              <div class="col-lg-6 content">
+              <div class="col-lg-6 content font-family:poppins;">
                 <p>
                   Kami telah bekerjasama dengan Ekspedisi ternama yang mendukung
                   pengiriman
@@ -631,6 +631,8 @@
         </div>
       </div>
     </section>
+    <section>
+    </section>
       <section
       id="alur"
       class="carousel-desktop"
@@ -728,7 +730,7 @@
             >
               <span class="carousel-control-prev-icon" aria-hidden="true"
                 ><i class="material-icons custom__material-icons"
-                  >left</i
+                  >keyboard_arrow_left</i
                 ></span
               >
             </button>
@@ -740,7 +742,7 @@
             >
               <span class="carousel-control-next-icon" aria-hidden="true"
                 ><i class="material-icons custom__material-icons"
-                  >right</i
+                  >keyboard_arrow_right</i
                 ></span
               >
             </button> -->
