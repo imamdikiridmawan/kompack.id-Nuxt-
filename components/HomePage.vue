@@ -10,8 +10,8 @@
         >
           <div class="komponen-pertama">
             <h2 class="judul-komponen">
-              <span style="color: #4285F4">Jasa Pergudangan</span><br> Terpercaya
-              untuk Bisnis Online Kamu
+              <span style="color: #4285F4">Kompack</span><br> Jasa Pergudangan Terpercaya
+
             </h2>
             <p class="ket-komponen">
               Kompack adalah solusi untuk masalah pergudangan, management, dan
@@ -268,8 +268,8 @@
         >
           <div class="card-body">
             <div class="row">
-              <div class="col-lg-6 content">
-                <p>
+              <div class="col-lg-6 content font-family:poppins;">
+                <p style="font-family:poppins;">
                   Kami telah bekerjasama dengan Ekspedisi ternama yang mendukung
                   pengiriman
                 </p>
@@ -631,6 +631,8 @@
         </div>
       </div>
     </section>
+    <section>
+    </section>
       <section
       id="alur"
       class="carousel-desktop"
@@ -640,11 +642,7 @@
       <h2 class="mb-5">Alur Partner Kompack</h2>
       <div class="row">
         <div class="carousel">
-          <div
-            id="carouselExampleControls"
-            class="carousel slide"
-            data-bs-ride="carousel"
-          >
+          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item ci-right">
                 <div class="card card-alur">
@@ -720,30 +718,14 @@
                 </div>
               </div>
             </div>
-            <!-- <button
-              class="carousel-control-prev"
-              type="button"
-              data-bs-target="#carouselExampleControls"
-              data-bs-slide="prev"
-            >
-              <span class="carousel-control-prev-icon" aria-hidden="true"
-                ><i class="material-icons custom__material-icons"
-                  >left</i
-                ></span
-              >
-            </button>
-            <button
-              class="carousel-control-next"
-              type="button"
-              data-bs-target="#carouselExampleControls"
-              data-bs-slide="next"
-            >
-              <span class="carousel-control-next-icon" aria-hidden="true"
-                ><i class="material-icons custom__material-icons"
-                  >right</i
-                ></span
-              >
-            </button> -->
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
           </div>
         </div>
       </div>
