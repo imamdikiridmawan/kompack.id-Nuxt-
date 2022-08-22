@@ -10,7 +10,7 @@
         >
           <div class="komponen-pertama">
             <h2 class="judul-komponen">
-              <span style="color: #4285F4">Kompack</span><br> Jasa Pergudangan Terpercaya
+              <span style="color: #4285F4">Jasa Pergudangan</span><br> Terpercaya Untuk Bisnis Online Kamu
 
             </h2>
             <p class="ket-komponen">
