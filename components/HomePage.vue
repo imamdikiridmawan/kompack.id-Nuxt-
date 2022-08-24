@@ -635,16 +635,16 @@
     </section>
       <section
       id="alur"
-      class="carousel-desktop"
+      class="carouselExampleControls"
       data-aos="fade-up"
       data-aos-anchor-placement="top-bottom"
     >
       <h2 class="mb-5">Alur Partner Kompack</h2>
       <div class="row">
         <div class="carousel">
-          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+          <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
-              <div class="carousel-item ci-right">
+              <div class="carousel-item active">
                 <div class="card card-alur">
                   <div class="icon-card">
                     <img src="../assets/icon/alur-1.svg" />
@@ -707,7 +707,7 @@
                   </div>
                 </div>
               </div>
-              <div class="carousel-item ci-left">
+              <div class="carousel-item">
                 <div class="card card-alur">
                   <div class="icon-card">
                     <img src="../assets/icon/alur-7.svg" />
@@ -718,13 +718,12 @@
                 </div>
               </div>
             </div>
-              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
+               <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#featured" data-slide="prev">
+              <span class="fa fa-arrow-circle-left fa-2x" style="color:green"></span>
               </a>
-              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
+              <a class="carousel-control-next" href="#featured" data-slide="next">
+              <span class="fa fa-arrow-circle-right fa-2x" style="color:green"></span>
               </a>
           </div>
         </div>
@@ -2876,6 +2875,18 @@ img {
   margin-left: 20px;
   max-height: 180px;
   max-width: 410px;
+}
+.carousel-control-prev,
+.carousel-control-next{
+  width:20px;
+  height: 20px;
+  background-color: none;
+  top:calc(-20% -25%);
+  opacity:.8;
+}
+.carousel-control-prev{
+ left: unset;
+  right: 30px;
 }
 }
 </style>
