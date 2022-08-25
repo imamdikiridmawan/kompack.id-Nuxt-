@@ -1,18 +1,32 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: 'static',
   head: {
-    title: 'kompack-v2',
+    title: 'Kompack - Jasa Pergudangan di Lokasi Strategis',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'facebook-domain-verification', content: 'bc0kq85eko8zx8xa5hzupawgmzrj0c' },
+      { hid: 'description', name: 'description', content: '"Solusi masalah pergudangan hingga packing order. Kompack menyediakan jasa fulfillment untuk kemudahan bisnis online dan UMKM. Daftar sekarang" ' },
+      { hid: 'keywords', name: 'keywords', content: 'kompack' },
+      { hid: 'og:locale', property: 'og:locale', content: 'id' },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'og:title', property: 'og:title', content: 'Kompack - Jasa Pegudangan di Lokasi Strategis' },
+      { hid: 'og:description', property: 'og:description', content: 'Solusi masalah pergudangan hingga packing order. Kompack menyediakan jasa fulfillment untuk kemudahan bisnis online dan UMKM. Daftar sekarang' },
+      { hid: 'og:url', property: 'og:url', content: 'https://kompack.id/' },
+      { hid: 'og:site_name', property: 'og:site_name', content: 'Kompack' },
+      { hid: 'og:image', property: 'og:image', content: 'https://kompack.id/img/kompack.png' },
+      { hid: 'og:image:width', property: 'og:image:width', content: '1280' },
+      { hid: 'og:image:height', property: 'og:image:height', content: '720' },
+      { property: 'og:see_also', content: 'https://www.instagram.com/kompackid/' },
+      { property: 'og:see_also', content: 'https://www.facebook.com/kompackid' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Poppins' },
       {
         rel: 'stylesheet',
         href:
@@ -50,6 +64,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    'nuxt-agile',
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
