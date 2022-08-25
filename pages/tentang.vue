@@ -4,15 +4,18 @@
       <div class="col-xl-10 col-lg-10 col-md-10 col-10">
         <h1 class="head-about"></h1>
         <div class="subhead1-about">
-        <div class="card">
+        <div class="card"style="width: 100rem;">
         <h3  class="card-header text-center">Tentang Kami</h3>
           <h5 class="card-title row justify-content-left mb-1">Kompack</h5>
-        <p class="card-text">Merupakan platform pelayanan
+          <div class="subhead2-about row justify-content-center py-3">
+            <p class="card-text">Merupakan platform pelayanan
             pengelolaan gudang untuk memudahkan pengguna dalam mengelola urusan
             pergudangan mulai dari proses inbound (penambahan stok), management
             stok, pengemasan, dan pengiriman. Kompack bekerja sama dengan
             pemilik properti sebagai mitra gudang yang sekaligus berperan dalam
             membawahi karyawan atau operator gudang.</p>
+
+          </div>
 
             <div class="subhead2-about row justify-content-center py-3">
           <p>
