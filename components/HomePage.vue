@@ -964,7 +964,12 @@ img {
   text-align: left;
   color: #222222;
 }
-
+.h1{
+  font-family: poppins;
+}
+.h2{
+  font-family: poppins;
+}
 .colom-pertama {
   align-self: center;
 }
