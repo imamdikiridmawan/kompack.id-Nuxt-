@@ -66,6 +66,9 @@ img {
   color: #222222;
   margin-bottom: 40px;
 }
+.card-header{
+  font-family: poppins;
+}
 .subhead1-about {
   font-size: 1rem;
   font-weight: 400;

@@ -207,6 +207,10 @@ img {
   font-size: 32px;
   text-align: center;
 }
+.card-header{
+  font-family: poppins;
+  text-align: justify;
+}
 .subhead1-syarat {
   font-weight: 700;
   font-size: 18px;
