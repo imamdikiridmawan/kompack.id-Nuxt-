@@ -831,8 +831,9 @@
     </section>
   </div>
 </template>
-
+<script src="../path/to/flowbite/dist/flowbite.js"></script>
 <script>
+
 
 // import $ from "jquery";
 // import * as bootstrap from "bootstrap";
