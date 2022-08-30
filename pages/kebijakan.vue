@@ -4,7 +4,7 @@
       <div class="col-xl-10 col-lg-10 col-md-10 col-10">
         <div class="head-kebijakan"></div>
         <h3  class="card-header text-center">Kebijakan Privasi</h3>
-        <div class="card subhead1-syarat justify"><div class="content-kebijakan">
+          <div class="content-kebijakan">
           <span class="PT">PT. Kampung Marketerindo Berdaya</span> yang kemudian
           disebut “Kompack” atau “Kami” adalah pemilik konten, grafis, dan
           pengembang dari situs dan platform Kompack. Kami berkomitmen untuk
@@ -56,6 +56,7 @@
           karena tindakan pemilik data atau pengguna jasa tanpa arahan dari
           pihak Kompack.
         </div>
+        <div  class="card-header text-center"></div>
       </div>
       </div>
     </div>

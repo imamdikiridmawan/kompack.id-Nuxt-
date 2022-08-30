@@ -4,7 +4,7 @@
       <div class="col-xl-10 col-lg-10 col-md-10 col-10">
         <div class="head-syarat"></div>
         <h3  class="card-header text-center">Syarat dan Ketentuan</h3>
-        <div class="card subhead1-syarat justify">Selamat datang di platform Kompack
+          Selamat datang di platform Kompack
         <div class="content-subhead1">
           Syarat dan ketentuan di bawah ini mengatur penggunaan layanan jasa
           yang ditawarkan oleh Kompack di bawah naungan
@@ -171,6 +171,7 @@
               Syarat dan Ketentuan ini, Anda dapat bertanya melalui e-mail kami
               di kontak Kompack atau menghubungi kami di nomor kompack.
             </div>
+            <div class="card-header text-center"></div>
           </div>
         </div>
         </div>

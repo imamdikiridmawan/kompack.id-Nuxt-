@@ -729,7 +729,7 @@
         </div>
       </div>
     </section>
-    <div class="row row-lokasi-gudang justify--content-center">
+    <div class="row row-lokasi-gudang justify-content-center">
       <h1>Lokasi Gudang</h1>
     </div>
     <section id="section-8" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
@@ -1436,7 +1436,7 @@ img {
 
 /* <-- section_8 --> */
 .row-lokasi-gudang {
-  padding: 25px 0px 25px 0px;
+  padding: 50px 0px 50px 0px;
   font-family: Poppins;
   font-size: 32px;
   font-weight: 600;
@@ -1763,11 +1763,11 @@ img {
   }
 
   #section-8 {
-    padding-bottom: 50px;
+    padding-bottom: 100%;
     background-image: url('../assets/maps-mobile.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position:;
   }
 
   .row_sect-8 {
