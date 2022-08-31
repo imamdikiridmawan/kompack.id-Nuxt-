@@ -807,7 +807,7 @@
                 <img src="../assets/lokasi.png" alt="">
               </div>
               <div class="text-tangerang">
-                <p>Gudang Tangerang</p>
+                <p>Gudang Surabaya</p>
               </div>
               <div class="content-lokasi d-flex">
                 <div class="col-2">
