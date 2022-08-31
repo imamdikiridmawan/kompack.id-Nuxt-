@@ -802,6 +802,34 @@
                 </div>
               </div>
             </div>
+            <div class="col col-tangerang">
+              <div class="icon-lokasi">
+                <img src="../assets/lokasi.png" alt="">
+              </div>
+              <div class="text-tangerang">
+                <p>Gudang Tangerang</p>
+              </div>
+              <div class="content-lokasi d-flex">
+                <div class="col-2">
+                  <img src="@/assets/clock.png" alt="">
+                </div>
+                <div class="col-10">
+                  <p>
+                    Jam operasional gudang 24 jam
+                  </p>
+                </div>
+              </div>
+              <div class="content-lokasi d-flex">
+                <div class="col-2">
+                  <img src="@/assets/truck.png" alt="">
+                </div>
+                <div class="col-10">
+                  <p>
+                    Mendukung berbagai penggunaan ekspedisi untuk pengiriman
+                  </p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -1455,8 +1483,6 @@ img {
 .sect-8 {
   max-width: 1000px;
   max-height: 450px;
-
-  background-image: url('../assets/maps.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1764,7 +1790,6 @@ img {
 
   #section-8 {
     padding-bottom: 100%;
-    background-image: url('../assets/maps-mobile.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position:;
@@ -2151,7 +2176,6 @@ img {
 
   #section-8 {
     padding-bottom: 50px;
-    background-image: url('../assets/maps-mobile.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2441,7 +2465,6 @@ img {
 
   #section-8 {
     padding-bottom: 50px;
-    background-image: url('../assets/maps-mobile.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
