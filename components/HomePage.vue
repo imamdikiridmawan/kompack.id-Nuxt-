@@ -736,14 +736,39 @@
       <div class="row">
       <div class="col-xl-4">
           <div class="card-body gudang-tangerang">
+            <div class="icon-gudang">
+            <svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="26" cy="26" r="26" fill="white"/>
+            <circle cx="26" cy="26" r="20" fill="#08A0F7"/>
+            <path d="M26.0009 27.4295C27.724 27.4295 29.1209 26.0326 29.1209 24.3095C29.1209 22.5863 27.724 21.1895 26.0009 21.1895C24.2777 21.1895 22.8809 22.5863 22.8809 24.3095C22.8809 26.0326 24.2777 27.4295 26.0009 27.4295Z" stroke="white" stroke-width="1.5"/>
+            <path d="M17.6197 22.49C19.5897 13.83 32.4197 13.84 34.3797 22.5C35.5297 27.58 32.3697 31.88 29.5997 34.54C27.5897 36.48 24.4097 36.48 22.3897 34.54C19.6297 31.88 16.4697 27.57 17.6197 22.49Z" stroke="white" stroke-width="1.5"/>
+            </svg>
+            </div>
           </div>
         </div>
             <div class="col-xl-4">
                 <div class="card-body gudang-bekasi">
+                  <div class="icon-gudang">
+                  <svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <circle cx="26" cy="26" r="26" fill="white"/>
+                  <circle cx="26" cy="26" r="20" fill="#08A0F7"/>
+                  <path d="M26.0009 27.4295C27.724 27.4295 29.1209 26.0326 29.1209 24.3095C29.1209 22.5863 27.724 21.1895 26.0009 21.1895C24.2777 21.1895 22.8809 22.5863 22.8809 24.3095C22.8809 26.0326 24.2777 27.4295 26.0009 27.4295Z" stroke="white" stroke-width="1.5"/>
+                  <path d="M17.6197 22.49C19.5897 13.83 32.4197 13.84 34.3797 22.5C35.5297 27.58 32.3697 31.88 29.5997 34.54C27.5897 36.48 24.4097 36.48 22.3897 34.54C19.6297 31.88 16.4697 27.57 17.6197 22.49Z" stroke="white" stroke-width="1.5"/>
+                  </svg>
+                </div>
                 </div>
               </div>
             <div class="col-xl-4">
                 <div class="card-body gudang-surabaya">
+                  <div class="icon-gudang">
+                  <div class="content-gudang"
+                  <svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <circle cx="26" cy="26" r="26" fill="white"/>
+                  <circle cx="26" cy="26" r="20" fill="#08A0F7"/>
+                  <path d="M26.0009 27.4295C27.724 27.4295 29.1209 26.0326 29.1209 24.3095C29.1209 22.5863 27.724 21.1895 26.0009 21.1895C24.2777 21.1895 22.8809 22.5863 22.8809 24.3095C22.8809 26.0326 24.2777 27.4295 26.0009 27.4295Z" stroke="white" stroke-width="1.5"/>
+                  <path d="M17.6197 22.49C19.5897 13.83 32.4197 13.84 34.3797 22.5C35.5297 27.58 32.3697 31.88 29.5997 34.54C27.5897 36.48 24.4097 36.48 22.3897 34.54C19.6297 31.88 16.4697 27.57 17.6197 22.49Z" stroke="white" stroke-width="1.5"/>
+                  </svg>
+                  </div>
                 </div>
               </div>
           </div>
@@ -885,7 +910,12 @@ export default {
   padding: 0%;
   margin: 0%;
 }
-
+.icon-gudang{
+    margin-top: -20px;
+    margin-bottom: 80px;
+    border-radius: 100%;
+    width: 340px;
+}
 .gudang-tangerang{
   width: 320px;
   height: 280px;
