@@ -732,107 +732,22 @@
     <div class="row row-lokasi-gudang justify-content-center">
       <h1>Lokasi Gudang</h1>
     </div>
-    <section id="section-8" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
-      <div class="row justify-content-center sect-8">
-        <div class="isi-sect8">
-          <div class="row row_sect-8 justify-content-center">
-            <div class="col col-tangerang">
-              <div class="icon-lokasi">
-                <img src="../assets/lokasi.png" alt="">
-              </div>
-              <div class="text-tangerang">
-                <p>Gudang Tangerang</p>
-              </div>
-              <div class="content-lokasi d-flex">
-                <div class="col-2">
-                  <img src="@/assets/clock.png" alt="">
-                </div>
-                <div class="col-10">
-                  <p>
-                    Jam operasional gudang 24 jam
-                  </p>
-                </div>
-              </div>
-              <div class="content-lokasi d-flex">
-                <div class="col-2">
-                  <img src="@/assets/truck.png" alt="">
-                </div>
-                <div class="col-10">
-                  <p>
-                    Mendukung berbagai penggunaan ekspedisi untuk pengiriman
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col col-bekasi">
-              <div class="icon-lokasi">
-                <img src="../assets/lokasi.png" alt="">
-              </div>
-              <div class="text-bekasi">
-                <p>Gudang Bekasi</p>
-              </div>
-              <div class="content-lokasi d-flex">
-                <div class="col-2">
-                  <img src="@/assets/clock.png" alt="">
-                </div>
-                <div class="col-10">
-                  <p>
-                    Jam operasional gudang jam 08.00 - 17.00 WIB
-                  </p>
-                </div>
-              </div>
-              <div class="content-lokasi d-flex">
-                <div class="col-2">
-                  <img src="@/assets/truck.png" alt="">
-                </div>
-                <div class="col-10">
-                  <p>
-                    Mendukung berbagai penggunaan ekspedisi untuk pengiriman
-                  </p>
-                </div>
-              </div>
-              <div class="row-bawah-lokasi d-flex">
-                <div class="col-2">
-                  <img src="../assets/ceklist.png" alt="">
-                </div>
-                <div class="col-10">
-                  <p>
-                    Tersedia penyimpanan pendingin
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col col-tangerang">
-              <div class="icon-lokasi">
-                <img src="../assets/lokasi.png" alt="">
-              </div>
-              <div class="text-tangerang">
-                <p>Gudang Surabaya</p>
-              </div>
-              <div class="content-lokasi d-flex">
-                <div class="col-2">
-                  <img src="@/assets/clock.png" alt="">
-                </div>
-                <div class="col-10">
-                  <p>
-                    Jam operasional gudang 24 jam
-                  </p>
-                </div>
-              </div>
-              <div class="content-lokasi d-flex">
-                <div class="col-2">
-                  <img src="@/assets/truck.png" alt="">
-                </div>
-                <div class="col-10">
-                  <p>
-                    Mendukung berbagai penggunaan ekspedisi untuk pengiriman
-                  </p>
-                </div>
-              </div>
-            </div>
+    <section id="section-8">
+      <div class="row">
+      <div class="col-xl-4">
+          <div class="card-body gudang-tangerang">
           </div>
         </div>
-      </div>
+            <div class="col-xl-4">
+                <div class="card-body gudang-bekasi">
+                </div>
+              </div>
+            <div class="col-xl-4">
+                <div class="card-body gudang-surabaya">
+                </div>
+              </div>
+          </div>
+
     </section>
     <section
       id="section-9"
@@ -971,7 +886,54 @@ export default {
   margin: 0%;
 }
 
-
+.gudang-tangerang{
+  width: 320px;
+  height: 280px;
+  border-radius: 20px;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  background-color: #151515;
+  color: #EDF8FF;
+  font-family: poppins;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  align-content: center;
+}
+.gudang-bekasi{
+  width: 320px;
+  height: 280px;
+  border-radius: 20px;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  background-color: #151515;
+  color: #EDF8FF;
+  font-family: poppins;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  align-content: center;
+}
+.gudang-surabaya{
+  width: 320px;
+  height: 280px;
+  border-radius: 20px;
+  margin-right: 5rem;
+  margin-left: 2rem;
+  background-color: #151515;
+  color: #EDF8FF;
+  font-family: poppins;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  align-content: center;
+}
+.row{
+  align-content: center;
+}
 img {
   max-width: 100%;
 }
@@ -1478,6 +1440,7 @@ img {
   padding-top: 50px;
   padding-bottom: 100px;
   background-color: #F6F6F9;
+  align-content: center;
 }
 
 .sect-8 {
@@ -1793,6 +1756,7 @@ img {
     background-repeat: no-repeat;
     background-size: cover;
     background-position:;
+    align-content: center;
   }
 
   .row_sect-8 {
@@ -2179,6 +2143,7 @@ img {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    align-content: center;
   }
 
   .row_sect-8 {
@@ -2468,6 +2433,7 @@ img {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    align-content: center;
   }
 
   .row_sect-8 {
@@ -2698,6 +2664,7 @@ img {
 
   #section-8 {
     padding-bottom: 90px;
+    align-content: center;
   }
 
   .row_sect-8 .col-tangerang .icon-lokasi img,
