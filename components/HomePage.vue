@@ -987,11 +987,11 @@ export default {
   }
 
   .icon-content-bekasi{
-    margin-top: 30px;
+    margin-top: 15px;
     border-radius: 100%;
     color:white;
     font-family: poppins;
-    text-align: justify;
+    text-align: left;
     margin-left: 10px;
     font: size 10%;
   }
