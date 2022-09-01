@@ -977,21 +977,23 @@ export default {
     width: 400px;
 }
   .icon-content{
-    margin-top: -60px;
+    margin-top: -50px;
     border-radius: 100%;
     color:white;
     font-family: poppins;
-    text-align: center;
-    margin-left: -55px;
+    text-align: justify;
+    margin-left: 10px;
+    font: size 10%;
   }
 
   .icon-content-bekasi{
-    margin-top: 20px;
+    margin-top: 30px;
     border-radius: 100%;
     color:white;
     font-family: poppins;
-    text-align:left;
-    margin-left: 25px;
+    text-align: justify;
+    margin-left: 10px;
+    font: size 10%;
   }
 
   .icon-content-surabaya{
