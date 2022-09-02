@@ -1037,45 +1037,39 @@ export default {
   width: 365px;
   height: 250px;
   border-radius: 20px;
-  margin-right: 2rem;
-  margin-left: 2rem;
   background-color: #151515;
   color: #EDF8FF;
   font-family: poppins;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  position: relative;
+  margin-bottom:25px;
   align-content: center;
+
 }
 .gudang-bekasi{
   width: 401px;
   height: 254px;
   border-radius: 20px;
-  margin-right: 2rem;
-  margin-left: 2rem;
   background-color: #151515;
   color: #EDF8FF;
   font-family: poppins;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  position: relative;
   align-content: center;
+  margin-bottom:25px;
 }
 .gudang-surabaya{
   width: 365px;
   height: 250px;
   border-radius: 20px;
-  margin-right: 5rem;
-  margin-left: 2rem;
   background-color: #151515;
   color: #EDF8FF;
   font-family: poppins;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  position: relative;
   align-content: center;
 }
 .row{
@@ -1588,6 +1582,7 @@ img {
   padding-bottom: 100px;
   background-color: #F6F6F9;
   align-content: center;
+  position: relative;
 }
 
 .sect-8 {
@@ -1596,81 +1591,6 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
-
-/* col Tangerang */
-.row_sect-8>.col-tangerang {
-  background-color: #151515;
-  border-radius: 30px;
-  padding: 0px 20px 20px 20px;
-  margin-top: 180px;
-  margin-left: 50px;
-  max-height: 150px;
-  max-width: 410px;
-}
-
-.row_sect-8>.col-tangerang .content-lokasi p {
-  font-family: Poppins;
-  color: #ffffff;
-  font-size: 16px;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-  padding-bottom: 5px;
-  text-align: left;
-}
-
-.sect-8 .col-tangerang .icon-lokasi img {
-  background-color: #08A0F7;
-  margin-top: -20px;
-  margin-bottom: 20px;
-  border-radius: 100%;
-  width: 40px;
-  border: solid 4px #ffffff;
-}
-
-/* col Bekasi */
-.row_sect-8>.col-bekasi {
-  background-color: #151515;
-  border-radius: 30px;
-  padding: 0px 20px 20px 20px;
-  margin-top: 250px;
-  margin-left: 120px;
-  max-width: 410px;
-  max-height: 210px;
-}
-
-.row_sect-8>.col-bekasi .content-lokasi p {
-  font-family: Poppins;
-  color: #ffffff;
-  font-size: 16px;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-  padding-bottom: 5px;
-  text-align: left;
-}
-
-.sect-8 .col-bekasi .icon-lokasi img {
-  background-color: #08A0F7;
-  margin-top: -20px;
-  margin-bottom: 20px;
-  border-radius: 100%;
-  width: 40px;
-  border: solid 4px #ffffff;
-}
-
-.row_sect-8>.col-bekasi .row-bawah-lokasi p {
-  font-family: Poppins;
-  color: #ffffff;
-  font-size: 16px;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-  padding-bottom: 5px;
-  text-align: left;
-}
-
-.row_sect-8>.col-bekasi .row-bawah-lokasi {
-  background-color: #4285F4;
-  border-radius: 8px;
 }
 
 /* section9 */
@@ -2286,7 +2206,7 @@ img {
   }
 
   #section-8 {
-    padding-bottom: 50px;
+    padding-bottom: 5px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
