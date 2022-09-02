@@ -2,8 +2,9 @@
   <div class="Kebijakan">
     <div class="row justify-content-center py-3">
       <div class="col-xl-10 col-lg-10 col-md-10 col-10">
-        <div class="head-kebijakan">Kebijakan Privasi</div>
-        <div class="content-kebijakan">
+        <div class="head-kebijakan"></div>
+        <h3  class="card-header text-center">Kebijakan Privasi</h3>
+          <div class="content-kebijakan">
           <span class="PT">PT. Kampung Marketerindo Berdaya</span> yang kemudian
           disebut “Kompack” atau “Kami” adalah pemilik konten, grafis, dan
           pengembang dari situs dan platform Kompack. Kami berkomitmen untuk
@@ -55,6 +56,8 @@
           karena tindakan pemilik data atau pengguna jasa tanpa arahan dari
           pihak Kompack.
         </div>
+        <div  class="card-header text-center"></div>
+      </div>
       </div>
     </div>
   </div>
@@ -90,6 +93,9 @@ img {
   margin-bottom: 40px;
   text-align: center;
 }
+.card-header{
+  font-family: poppins;
+}
 .PT {
   font-weight: 600;
   font-size: 16px;
@@ -103,6 +109,7 @@ img {
   color: #626262;
   margin-bottom: 2%;
   letter-spacing: 1px;
+  text-align: justify;
 }
 .subhead1-kebijakan {
   font-weight: 600;

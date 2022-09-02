@@ -2,8 +2,9 @@
   <div class="Syarat">
     <div class="row justify-content-center py-3">
       <div class="col-xl-10 col-lg-10 col-md-10 col-10">
-        <div class="head-syarat">Syarat dan Ketentuan</div>
-        <div class="subhead1-syarat">Selamat datang di platform Kompack</div>
+        <div class="head-syarat"></div>
+        <h3  class="card-header text-center">Syarat dan Ketentuan</h3>
+          Selamat datang di platform Kompack
         <div class="content-subhead1">
           Syarat dan ketentuan di bawah ini mengatur penggunaan layanan jasa
           yang ditawarkan oleh Kompack di bawah naungan
@@ -170,7 +171,9 @@
               Syarat dan Ketentuan ini, Anda dapat bertanya melalui e-mail kami
               di kontak Kompack atau menghubungi kami di nomor kompack.
             </div>
+            <div class="card-header text-center"></div>
           </div>
+        </div>
         </div>
       </div>
     </div>
@@ -205,6 +208,10 @@ img {
   font-size: 32px;
   text-align: center;
 }
+.card-header{
+  font-family: poppins;
+  text-align: justify;
+}
 .subhead1-syarat {
   font-weight: 700;
   font-size: 18px;
@@ -216,6 +223,7 @@ img {
   font-size: 16px;
   line-height: 22.4px;
   margin-top: 2%;
+  text-align: justify;
 }
 .PT {
   font-weight: 600;
@@ -229,6 +237,7 @@ img {
   color: #000000;
   margin-bottom: 2%;
   margin-top: 5%;
+  text-align: justify;
 }
 .list {
   text-align: center;
@@ -241,7 +250,7 @@ img {
 }
 @media (max-width: 450px) {
     .Syarat {
-        margin-top: 32px; 
+        margin-top: 32px;
         margin-bottom: 32px;
         /* text-align: justify; */
     }

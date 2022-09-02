@@ -2,24 +2,31 @@
   <div class="Tentang">
     <div class="row justify-content-center py-3">
       <div class="col-xl-10 col-lg-10 col-md-10 col-10">
-        <h1 class="head-about">Tentang Kami</h1>
+        <h1 class="head-about"></h1>
         <div class="subhead1-about">
-          <p>
-            <span class="kompack">Kompack</span> merupakan platform pelayanan
+        <h4 class="card-header text-center">Tentang Kami</h4>
+        <br>
+       <h5>Kompack</h5>
+          <div class="subhead2-about row justify-content-center py-3">
+            <p class="card-text ">Merupakan platform pelayanan
             pengelolaan gudang untuk memudahkan pengguna dalam mengelola urusan
             pergudangan mulai dari proses inbound (penambahan stok), management
             stok, pengemasan, dan pengiriman. Kompack bekerja sama dengan
             pemilik properti sebagai mitra gudang yang sekaligus berperan dalam
-            membawahi karyawan atau operator gudang.
-          </p>
-        </div>
-        <div class="subhead2-about">
+            membawahi karyawan atau operator gudang.</p>
+
+          </div>
+
+            <div class="subhead2-about row justify-content-center py-3">
           <p>
             Rasakan pengalaman layanan fulfillment yang mudah, hemat, dan
             beragam manfaat lainnya dari Kompack. Kami juga berkomitmen untuk
             terus mendukung perekonomian dalam negeri dengan memberikan
             kemudahan dalam menjalankan bisnis bagi UMKM dan pebisnis online.
           </p>
+        </div>
+  </div>
+</div>
         </div>
       </div>
     </div>
@@ -59,6 +66,9 @@ img {
   color: #222222;
   margin-bottom: 40px;
 }
+.card-header{
+  font-family: poppins;
+}
 .subhead1-about {
   font-size: 1rem;
   font-weight: 400;
@@ -89,7 +99,7 @@ img {
     margin-bottom: 32px;
   }
   .head-about {
-    font-size: 20px; 
+    font-size: 20px;
     line-height: 30px;
     margin-bottom: 24px;
   }
