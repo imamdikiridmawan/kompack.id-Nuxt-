@@ -1043,7 +1043,7 @@ export default {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-bottom:25px;
+  margin-bottom:30px;
   align-content: center;
 
 }
@@ -1058,7 +1058,7 @@ export default {
   display: -ms-flexbox;
   display: flex;
   align-content: center;
-  margin-bottom:25px;
+  margin-bottom:30px;
 }
 .gudang-surabaya{
   width: 365px;
