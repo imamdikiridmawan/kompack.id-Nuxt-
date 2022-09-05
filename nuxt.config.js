@@ -10,6 +10,7 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { name: 'facebook-domain-verification', content: 'bc0kq85eko8zx8xa5hzupawgmzrj0c' },
+      {name:'google-site-verification" content="aqtHFvmToPbc6oBDFONzum_v8P2QDFbqAaEBtSnP8SE'},
       { hid: 'description', name: 'description', content: '"Solusi masalah pergudangan hingga packing order. Kompack menyediakan jasa fulfillment untuk kemudahan bisnis online dan UMKM. Daftar sekarang" ' },
       { hid: 'keywords', name: 'keywords', content: 'kompack' },
       { hid: 'og:locale', property: 'og:locale', content: 'id' },
