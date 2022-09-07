@@ -745,14 +745,16 @@
             </svg>
             <h5 class="content-gudang">Gudang Tangerang</h5>
             <div class="icon-content">
-            <svg width="22" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <svg width="20" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M19.852 12C19.852 17.52 15.8094 22 10.8284 22C5.84729 22 1.80469 17.52 1.80469 12C1.80469 6.48 5.84729 2 10.8284 2C15.8094 2 19.852 6.48 19.852 12Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             <path d="M14.1758 15.1798L11.3785 13.3298C10.8912 13.0098 10.4941 12.2398 10.4941 11.6098V7.50977" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
-            <h7 style="text-align:justify">Jam operasional gudang 24 jam</h7>
+            <h7>Jam operasional gudang
+              Senin-Sabtu jam 10.00 - 20.00 WIB
+            </h7>
             </div>
             <div class="icon-content2">
-              <svg width="22" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <svg width="20" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M13.5355 2V12C13.5355 13.1 12.7233 14 11.7307 14H1.80469V7.62C2.46342 8.49 3.47409 9.03 4.59303 9C5.50442 8.98 6.32555 8.59 6.93916 7.94C7.21889 7.68 7.45352 7.34999 7.634 6.98999C7.95885 6.37999 8.1393 5.65997 8.12126 4.90997C8.09419 3.73997 7.62497 2.71 6.89405 2H13.5355Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M19.852 14V17C19.852 18.66 18.6429 20 17.1449 20H16.2426C16.2426 18.9 15.4304 18 14.4378 18C13.4452 18 12.6331 18.9 12.6331 20H9.02362C9.02362 18.9 8.21149 18 7.21889 18C6.22629 18 5.41416 18.9 5.41416 20H4.51179C3.01386 20 1.80469 18.66 1.80469 17V14H11.7307C12.7233 14 13.5355 13.1 13.5355 12V5H15.1958C15.8455 5 16.4411 5.39001 16.7659 6.01001L18.309 9H17.1449C16.6486 9 16.2426 9.45 16.2426 10V13C16.2426 13.55 16.6486 14 17.1449 14H19.852Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M7.2188 22C8.21552 22 9.02353 21.1046 9.02353 20C9.02353 18.8954 8.21552 18 7.2188 18C6.22207 18 5.41406 18.8954 5.41406 20C5.41406 21.1046 6.22207 22 7.2188 22Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -761,7 +763,7 @@
                   <path d="M8.12036 4.91073C8.13841 5.66073 7.95796 6.38074 7.6331 6.99074C7.45263 7.35074 7.218 7.68075 6.93826 7.94075C6.32465 8.59075 5.50352 8.98075 4.59213 9.00075C3.4732 9.03075 2.46252 8.49075 1.80379 7.62075C1.67746 7.47075 1.56918 7.30076 1.46992 7.13076C1.118 6.54076 0.919474 5.84078 0.901427 5.09078C0.874356 3.83078 1.37967 2.68074 2.1918 1.93074C2.80541 1.37074 3.58143 1.02075 4.42966 1.00075C5.37714 0.980752 6.24345 1.36075 6.89316 2.00075C7.62407 2.71075 8.09329 3.74073 8.12036 4.91073Z" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M3.10352 5.03076L4.01491 5.99072L5.90083 3.9707" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
-              <h7 style="text-align:justify">Mendukung berbagai macam ekspedisi untuk pengiriman</h7>
+              <h7>Mendukung berbagai macam ekspedisi untuk pengiriman</h7>
             </div>
           </div>
           </div>
@@ -777,7 +779,7 @@
                   </svg>
                   <h5 class="content-gudang">Gudang Bekasi</h5>
                   <div class="icon-content">
-            <svg width="22" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <svg width="20" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M19.852 12C19.852 17.52 15.8094 22 10.8284 22C5.84729 22 1.80469 17.52 1.80469 12C1.80469 6.48 5.84729 2 10.8284 2C15.8094 2 19.852 6.48 19.852 12Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             <path d="M14.1758 15.1798L11.3785 13.3298C10.8912 13.0098 10.4941 12.2398 10.4941 11.6098V7.50977" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -787,7 +789,7 @@
             </h7>
             </div>
             <div class="icon-content-bekasi">
-              <svg width="22" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <svg width="20" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M13.5355 2V12C13.5355 13.1 12.7233 14 11.7307 14H1.80469V7.62C2.46342 8.49 3.47409 9.03 4.59303 9C5.50442 8.98 6.32555 8.59 6.93916 7.94C7.21889 7.68 7.45352 7.34999 7.634 6.98999C7.95885 6.37999 8.1393 5.65997 8.12126 4.90997C8.09419 3.73997 7.62497 2.71 6.89405 2H13.5355Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M19.852 14V17C19.852 18.66 18.6429 20 17.1449 20H16.2426C16.2426 18.9 15.4304 18 14.4378 18C13.4452 18 12.6331 18.9 12.6331 20H9.02362C9.02362 18.9 8.21149 18 7.21889 18C6.22629 18 5.41416 18.9 5.41416 20H4.51179C3.01386 20 1.80469 18.66 1.80469 17V14H11.7307C12.7233 14 13.5355 13.1 13.5355 12V5H15.1958C15.8455 5 16.4411 5.39001 16.7659 6.01001L18.309 9H17.1449C16.6486 9 16.2426 9.45 16.2426 10V13C16.2426 13.55 16.6486 14 17.1449 14H19.852Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M7.2188 22C8.21552 22 9.02353 21.1046 9.02353 20C9.02353 18.8954 8.21552 18 7.2188 18C6.22207 18 5.41406 18.8954 5.41406 20C5.41406 21.1046 6.22207 22 7.2188 22Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -823,7 +825,7 @@
                   </svg>
                   <h5 class="content-gudang">Gudang Surabaya</h5>
                   <div class="icon-content-surabaya">
-                  <svg width="22" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <svg width="20" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M19.852 12C19.852 17.52 15.8094 22 10.8284 22C5.84729 22 1.80469 17.52 1.80469 12C1.80469 6.48 5.84729 2 10.8284 2C15.8094 2 19.852 6.48 19.852 12Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M14.1758 15.1798L11.3785 13.3298C10.8912 13.0098 10.4941 12.2398 10.4941 11.6098V7.50977" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                   </svg>
@@ -833,7 +835,7 @@
                     </h7>
                   </div>
             <div class="icon-content2">
-              <svg width="22" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <svg width="20" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M13.5355 2V12C13.5355 13.1 12.7233 14 11.7307 14H1.80469V7.62C2.46342 8.49 3.47409 9.03 4.59303 9C5.50442 8.98 6.32555 8.59 6.93916 7.94C7.21889 7.68 7.45352 7.34999 7.634 6.98999C7.95885 6.37999 8.1393 5.65997 8.12126 4.90997C8.09419 3.73997 7.62497 2.71 6.89405 2H13.5355Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M19.852 14V17C19.852 18.66 18.6429 20 17.1449 20H16.2426C16.2426 18.9 15.4304 18 14.4378 18C13.4452 18 12.6331 18.9 12.6331 20H9.02362C9.02362 18.9 8.21149 18 7.21889 18C6.22629 18 5.41416 18.9 5.41416 20H4.51179C3.01386 20 1.80469 18.66 1.80469 17V14H11.7307C12.7233 14 13.5355 13.1 13.5355 12V5H15.1958C15.8455 5 16.4411 5.39001 16.7659 6.01001L18.309 9H17.1449C16.6486 9 16.2426 9.45 16.2426 10V13C16.2426 13.55 16.6486 14 17.1449 14H19.852Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                   <path d="M7.2188 22C8.21552 22 9.02353 21.1046 9.02353 20C9.02353 18.8954 8.21552 18 7.2188 18C6.22207 18 5.41406 18.8954 5.41406 20C5.41406 21.1046 6.22207 22 7.2188 22Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1045,9 +1047,8 @@ export default {
   }
 
 .content-gudang{
-    margin-top: 40px;
-    margin-bottom: 80px;
-    border-radius: 100%;
+    margin-top: 15px;
+    margin-bottom: 90px;
     width: 340px;
     color:#08A0F7;
     font-family: poppins;
@@ -1056,7 +1057,7 @@ export default {
     padding:-10px 2px 5px;
 }
 .isi-content{
-  margin-top: 40px;
+  margin-top: 30px;
     margin-bottom: 80px;
     border-radius: 100%;
     width: 340px;
@@ -1078,7 +1079,6 @@ export default {
   margin-bottom:30px;
   align-content: center;
   padding:0px 10px 5px;
-
 }
 .gudang-bekasi{
   width: 401px;
