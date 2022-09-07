@@ -41,10 +41,38 @@ export default {
       {
         src:
           'https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js'
+      },
+      {
+        type: 'application/ld+json',
+        json: {
+          '@context': 'https://schema.org',
+          '@type': 'Organization',
+          name: 'Kompack',
+          legalName: 'Kompack',
+          logo: 'https://kompack.id/img/logo-kompack.png',
+          url: 'https://kompack.id/',
+          address: {
+            '@type': 'PostalAddress',
+            streetAddress:
+              'Jl. Raya Tamansari, Kompleks Karangwuni, Desa Tamansari, Karangmoncol',
+            addressLocality: 'Purbalingga',
+            postalCode: '53355',
+            addressCountry: 'ID'
+          },
+          contactPoint: {
+            '@type': 'ContactPoint',
+            contactType: 'Customer service',
+            email: 'mailto:bd@kompack.id',
+            telephone: '081328012118'
+          },
+          sameAs: [
+            'https://www.facebook.com/kompackid',
+            'https://www.instagram.com/kompackid/',
+          ]
+        }
       }
     ]
   },
-
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
