@@ -19,7 +19,7 @@ export default {
       { hid: 'og:description', property: 'og:description', content: 'Solusi masalah pergudangan hingga packing order. Kompack menyediakan jasa fulfillment untuk kemudahan bisnis online dan UMKM. Daftar sekarang' },
       { hid: 'og:url', property: 'og:url', content: 'https://kompack.id/' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'Kompack' },
-      { hid: 'og:image', property: 'og:image', content: 'https://kompack.id/img/kompack.png' },
+      { hid: 'og:image', property: 'og:image', content: 'https://kompack.id/kompack.png' },
       { hid: 'og:image:width', property: 'og:image:width', content: '1280' },
       { hid: 'og:image:height', property: 'og:image:height', content: '720' },
       { property: 'og:see_also', content: 'https://www.instagram.com/kompackid/' },
@@ -41,10 +41,38 @@ export default {
       {
         src:
           'https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js'
+      },
+      {
+        type: 'application/ld+json',
+        json: {
+          '@context': 'https://schema.org',
+          '@type': 'Organization',
+          name: 'Kompack',
+          legalName: 'Kompack',
+          logo: 'https://kompack.id/img/logo-kompack.png',
+          url: 'https://kompack.id/',
+          address: {
+            '@type': 'PostalAddress',
+            streetAddress:
+              'Jl. Raya Tamansari, Kompleks Karangwuni, Desa Tamansari, Karangmoncol',
+            addressLocality: 'Purbalingga',
+            postalCode: '53355',
+            addressCountry: 'ID'
+          },
+          contactPoint: {
+            '@type': 'ContactPoint',
+            contactType: 'Customer service',
+            email: 'mailto:bd@kompack.id',
+            telephone: '081328012118'
+          },
+          sameAs: [
+            'https://www.facebook.com/kompackid',
+            'https://www.instagram.com/kompackid/',
+          ]
+        }
       }
     ]
   },
-
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
