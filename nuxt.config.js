@@ -19,7 +19,7 @@ export default {
       { hid: 'og:description', property: 'og:description', content: 'Solusi masalah pergudangan hingga packing order. Kompack menyediakan jasa fulfillment untuk kemudahan bisnis online dan UMKM. Daftar sekarang' },
       { hid: 'og:url', property: 'og:url', content: 'https://kompack.id/' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'Kompack' },
-      { hid: 'og:image', property: 'og:image', content: 'https://kompack.id/img/kompack.png' },
+      { hid: 'og:image', property: 'og:image', content: 'https://kompack.id/kompack.png' },
       { hid: 'og:image:width', property: 'og:image:width', content: '1280' },
       { hid: 'og:image:height', property: 'og:image:height', content: '720' },
       { property: 'og:see_also', content: 'https://www.instagram.com/kompackid/' },
