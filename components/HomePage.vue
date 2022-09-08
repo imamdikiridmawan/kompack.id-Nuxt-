@@ -965,6 +965,29 @@ export default {
         activeAccordionId: null,
         };
     },
+    head () {
+    return {
+      type: 'application/ld+json',
+      json: {
+        '@context': 'https://schema.org/',
+        '@type': 'WebSite',
+        name: 'Kompack',
+        description: 'Solusi masalah pergudangan hingga packing order.
+		Kompack menyediakan jasa fulfillment untuk kemudahan bisnis online dan UMKM. Daftar sekarang',
+        url: 'https://kompack.id/',
+        image: {
+          '@type': 'ImageObject',
+          url: 'https://kompack.id/img/kompack.png',
+          height: '720',
+          width: '1280'
+        },
+        sameAs: [
+          'https://www.instagram.com/kompackid/',
+          'https://www.facebook.com/kompackid',
+        ]
+      }
+    }
+  }
   methods: {
     openWindow(url) {
       if(process.client) {window.open(url)};
